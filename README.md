@@ -8,7 +8,7 @@
 
 <h2> / about me /</h2>
   
-- ⭐ currently working on **web-development** and I like **front/back-end**
+- ⭐ currently working on **web-development** and **front/back-end**
 - 👽 mostly working on **private repositories** ... builidng up to public
 - 👾 a **student** still figuring it out as I go
   
