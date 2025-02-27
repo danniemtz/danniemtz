@@ -38,7 +38,7 @@
   <h1 align="center">Get in Touch! 📬</h1>
 <Br>
 <p align="center">
-<a href="https://www.linkedin.com/in/danniella-martinez-858844256" target="blank"><img align="center" src="https://img.shields.io/badge/Danniella-Martinez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:danniellamartinez491@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/danniellamartinez491@gmail.com@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/danniemtz" target="blank"><img align="center" src="https://img.shields.io/badge/danniemtz-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/danniella-martinez-858844256" target="blank"><img align="center" src="https://img.shields.io/badge/Danniella-Martinez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:danniellamartinez491@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/danniellamartinez491@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/danniemtz" target="blank"><img align="center" src="https://img.shields.io/badge/danniemtz-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
   
 <Br>
